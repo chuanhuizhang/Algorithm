@@ -1,9 +1,9 @@
 ## Merge Sort
 
 ### Basic plan
-#### Divide array into two halves.
-#### Recursively sort each half.
-#### Merge two halves.
+Divide array into two halves.
+Recursively sort each half.
+Merge two halves.
 
 ### Merging: Java implementation
 ```
