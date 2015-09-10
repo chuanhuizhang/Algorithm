@@ -122,7 +122,6 @@ Remove the maximum, one at a time<br/>
 Leave in array, instead of nulling out <br/>
 ```
 // Move the root to the end of the array, reduce the length of the heap array by 1 each time
-```
 while(N > 1) {
     exch(a, 1, N);
     N--;
